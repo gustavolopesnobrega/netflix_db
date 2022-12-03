@@ -1,3 +1,5 @@
+CREATE DATABASE db_netflix
+
 USE db_netflix
 
 CREATE TABLE dbo.tb_video(
